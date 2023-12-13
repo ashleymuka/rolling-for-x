@@ -1,10 +1,5 @@
 '''
-Author: Ashley Muka
-Assignment Title: Rolling for X
-Assignment Description:implement a GVDie object to roll a die
-Due Date:09/07/2023
-Date Created:09/03/2023
-Date Last Modified:09/07/2023
+Description:implement a function to roll a die
 
 '''
 
